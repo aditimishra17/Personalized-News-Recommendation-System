@@ -30,3 +30,6 @@ A content-based news recommendation system built using NLP techniques to recomme
 ## Results
 
 Successfully generated content-based recommendations from a corpus of over 209K news articles and analyzed category distributions across 42 content segments.
+
+Author,
+Aditi Mishra
